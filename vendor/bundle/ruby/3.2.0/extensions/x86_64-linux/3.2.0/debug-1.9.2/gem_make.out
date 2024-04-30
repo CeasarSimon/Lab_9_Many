@@ -1,0 +1,19 @@
+current directory: /home/simon/LibApplication/vendor/bundle/ruby/3.2.0/gems/debug-1.9.2/ext/debug
+/home/simon/.rvm/rubies/ruby-3.2.2/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /home/simon/LibApplication/vendor/bundle/ruby/3.2.0/gems/debug-1.9.2/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20240430-7569-uhglwl sitelibdir\=./.gem.20240430-7569-uhglwl clean
+
+current directory: /home/simon/LibApplication/vendor/bundle/ruby/3.2.0/gems/debug-1.9.2/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20240430-7569-uhglwl sitelibdir\=./.gem.20240430-7569-uhglwl
+compiling debug.c
+compiling iseq_collector.c
+linking shared-object debug/debug.so
+
+current directory: /home/simon/LibApplication/vendor/bundle/ruby/3.2.0/gems/debug-1.9.2/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20240430-7569-uhglwl sitelibdir\=./.gem.20240430-7569-uhglwl install
+/usr/bin/install -m 0755 debug.so ./.gem.20240430-7569-uhglwl/debug
+
+current directory: /home/simon/LibApplication/vendor/bundle/ruby/3.2.0/gems/debug-1.9.2/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20240430-7569-uhglwl sitelibdir\=./.gem.20240430-7569-uhglwl clean
